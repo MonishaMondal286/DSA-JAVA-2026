@@ -1,0 +1,14 @@
+# Ignore compiled Java classes
+*.class
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# build outputs
+/out/
+/bin/
+/target/
